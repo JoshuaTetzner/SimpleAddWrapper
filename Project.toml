@@ -1,0 +1,7 @@
+name = "CxxJuliaWrapper"
+uuid = "08d2a6d5-2270-419e-a935-487c1f28ddb8"
+authors = ["JoshuaTet <joshua.tetzner@gmx.de>"]
+version = "0.1.0"
+
+[deps]
+exafmmtjuliatest_jll = "f7f499cd-919d-53c6-b315-3f4ef2354529"
